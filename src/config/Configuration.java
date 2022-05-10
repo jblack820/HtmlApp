@@ -21,7 +21,7 @@ public class Configuration {
     public static final String NEWLINE = "\n";
     public static String email;
     public static String name;
-    public static final String PROJECT_LINK = "";
+    public static final String PROJECT_LINK = "https://github.com/jblack820/HtmlApp";
 
 
     public static void checkCommandLineOptions() {
